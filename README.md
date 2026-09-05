@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi, I'm Rollan 👋
+
+🇰🇿 Kazakhstan
+
+💻 JavaScript Developer
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deVich27&show_icons=true&hide_border=true&theme=transparent)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=deVich27&hide_border=true&theme=transparent)
 
 <!--
 **deVich27/deVich27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
