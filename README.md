@@ -1,26 +1,24 @@
-# Hi, I'm Rollan 👋
+<div align="center">
 
-🇰🇿 Kazakhstan
+### Hello, I'm Rollan 👋
 
-💻 JavaScript Developer
+<hr>
 
-## 📊 GitHub Stats
+## Computer Science student from Kazakhstan 🇰🇿
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deVich27&show_icons=true&hide_border=true&theme=transparent)
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=deVich27&hide_border=true&theme=transparent)
+<div align="center">
 
-<!--
-**deVich27/deVich27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=deVich27&show_icons=false&hide_border=true&theme=transparent" height="150"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deVich27&layout=compact&hide_border=true&theme=transparent" height="150"/>
+
+</div>
+
