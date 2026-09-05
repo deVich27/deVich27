@@ -1,32 +1,26 @@
 name: Generate Snake
 
 on:
-schedule:
-- cron: "0 0 * * *"
-workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 permissions:
-contents: write
+  contents: write
 
 jobs:
-generate:
-runs-on: ubuntu-latest
+  generate:
+    runs-on: ubuntu-latest
 
-```
-steps:
-  - name: Generate snake
-    uses: Platane/snk@v3
-    with:
-      github_user_name: deVich27
-      outputs: |
-        dist/github-contribution-grid-snake.svg?color_snake=%23000000&color_dots=%23eeeeee,%23cccccc,%23999999,%23555555,%23000000
+    steps:
+      - name: Generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: deVich27
+          outputs: dist/github-contribution-grid-snake.svg
 
-  - name: Publish
-    uses: crazy-max/ghaction-github-pages@v4
-    with:
-      build_dir: dist
-      jekyll: false
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      BUILD_DIR: dist
-```
+      - name: Push snake
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Generate snake"
+          add: "dist/github-contribution-grid-snake.svg"
