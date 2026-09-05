@@ -1,10 +1,10 @@
 <div align="center">
 
-### Hello, I'm Rollan 👋
+# Hello, I'm Rollan 👋
 
 <hr>
 
-## Computer Science student from Kazakhstan 🇰🇿
+### Computer Science student from Kazakhstan 🇰🇿
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=deVich27&hide_border=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deVich27&layout=compact&hide_border=true&theme=transparent)
+<img src="https://streak-stats.demolab.com?user=deVich27&theme=transparent&hide_border=true&card_width=495" />
 
 </div>
 
