@@ -18,7 +18,7 @@
 
 <img src="https://streak-stats.demolab.com?user=deVich27&theme=transparent&hide_border=true&font=JetBrains%20Mono" height="150"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deVich27&layout=compact&hide_border=true&theme=transparent" height="150"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=deVich27&layout=compact&hide_border=true&theme=transparent" height="150"/>
 
 </div>
 
