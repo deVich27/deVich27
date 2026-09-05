@@ -18,8 +18,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: deVich27
-          outputs: dist/github-contribution-grid-snake.svg?color_snake=%23000000&color_dots=%23eeeeee,%23cccccc,%23999999,%23555555,%23000000
-
+          outputs: dist/github-contribution-grid-snake.svg?color_dots=%23eeeeee,%23cccccc,%23999999,%23555555,%23333333
       - name: Commit
         run: |
           git config user.name "github-actions[bot]"
