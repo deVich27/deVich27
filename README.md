@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/deVich27/deVich27/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/deVich27/deVich27/main/dist/github-contribution-grid-snake.svg">
 
 </div>
 
